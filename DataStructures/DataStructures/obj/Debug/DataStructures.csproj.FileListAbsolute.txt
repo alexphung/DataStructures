@@ -1,0 +1,12 @@
+D:\SampleConsole\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+D:\SampleConsole\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+D:\SampleConsole\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+D:\SampleConsole\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+D:\SampleConsole\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+D:\SampleConsole\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+D:\Developments\SampleConsole\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+D:\Developments\SampleConsole\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+D:\Developments\SampleConsole\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+D:\Developments\SampleConsole\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+D:\Developments\SampleConsole\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+D:\Developments\SampleConsole\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
